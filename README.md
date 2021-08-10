@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on another web developer. I want them to learn more about web development, to know what the current business is like!
 - 📫 How to reach me ... >> give me a e-mail! My e-mail address is rhwkd5012@naver.com~! I will reply you ASAP ;)
 
-- 안녕하세요! 언제나 최선을 다하는 개발자, 성장하는 개발자 황호세라고 합니다! 제 깃허브 주소에 오신 여러분들께 진심으로 환영한다는 말씀 전해드립니다ㅎ_ㅎ 메인 언어는 자바이고 관심있는 분야는 코틀린, vue, react입니다~! 여기서 여러분들이 필요한 소스를 가져가서 잘 쓰셨으면 좋겠네요! 곧 모든 Repositories에 README를 추가할 예정입니다! 조금만 기다려주세요~ 
+- 👋 안녕하세요! 언제나 최선을 다하는 개발자, 성장하는 개발자 황호세라고 합니다! 제 깃허브 주소에 오신 여러분들께 진심으로 환영한다는 말씀 전해드립니다ㅎ_ㅎ 메인 언어는 자바이고 관심있는 분야는 코틀린, vue, react입니다~! 여기서 여러분들이 필요한 소스를 가져가서 잘 쓰셨으면 좋겠네요! 곧 모든 Repositories에 README를 추가할 예정입니다! 조금만 기다려주세요~ 
 
 <!---
 HoCG/HoCG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
