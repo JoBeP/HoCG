@@ -6,6 +6,8 @@
 
 - 👋 안녕하세요! 언제나 최선을 다하는 개발자, 성장하는 개발자 황호세라고 합니다! 제 깃허브 주소에 오신 여러분들께 진심으로 환영한다는 말씀 전해드립니다ㅎ_ㅎ 메인 언어는 자바이고 관심있는 분야는 코틀린, vue, react입니다~! 여기서 여러분들이 필요한 소스를 가져가서 잘 쓰셨으면 좋겠네요!
 
+- ✨ 커밋하는 주기가 빠르지않아요ㅠ 커밋을 자주 안할뿐 평상시에 코딩을 정말 많이한답니다ㅎㅎ
+
 <!---
 HoCG/HoCG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
