@@ -1,6 +1,41 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20To%20HoCG's%20Github&fontSize=90" />
-<img src="https://camo.githubusercontent.com/0c391b5545096b63cac7def5d0f2eb5c4c43260323d456c2689cc841d2bbdf09/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e67266865696768743d32303026746578743d576176696e672126666f6e74416c69676e3d383026666f6e74416c69676e593d343026636f6c6f723d6772616469656e74" alt="Welcome%20To%20HoCG's%20Github" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;height=200&amp;text=Welcome%20To%20HoCG's%20Github&amp;fontAlign=80&amp;fontAlignY=40&amp;color=gradient" style="max-width: 100%;">
-
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="z-index:1;position:relative" width="854" height="300" viewBox="0 0 854 300">
+                <style>
+                            .text {
+						font-size: 90px;
+						font-weight: 700;
+						font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
+					}
+					.desc {
+						font-size: 20px;
+						font-weight: 500;
+						font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
+					}
+                            .text, .desc {
+							animation: fadeIn 1.2s ease-in-out forwards;
+						}@keyframes fadeIn {
+						  from {
+							opacity: 0;
+						  }
+						  to {
+							opacity: 1;
+						  }
+						};
+                        </style>
+                <g transform="translate(427, 150) scale(1, 1) translate(-427, -150)">
+                    
+                                
+                                <path d="" fill="#C7A48B" opacity="0.4">
+                <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcmod="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="0s" values="M0 0L 0 220Q 213.5 260 427 230T 854 255L 854 0 Z;M0 0L 0 245Q 213.5 260 427 240T 854 230L 854 0 Z;M0 0L 0 265Q 213.5 235 427 265T 854 230L 854 0 Z;M0 0L 0 220Q 213.5 260 427 230T 854 255L 854 0 Z"/>
+            </path>
+            <path d="" fill="#C7A48B" opacity="0.4">
+                <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcmod="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="-10s" values="M0 0L 0 235Q 213.5 280 427 250T 854 260L 854 0 Z;M0 0L 0 250Q 213.5 220 427 220T 854 240L 854 0 Z;M0 0L 0 245Q 213.5 225 427 250T 854 265L 854 0 Z;M0 0L 0 235Q 213.5 280 427 250T 854 260L 854 0 Z"/>
+            </path>
+                </g>
+                
+                        <text text-anchor="middle" alignment-baseline="middle" x="50%" y="38%" class="text" style="fill:#f7f5f5;">capsule render</text>
+                <text text-anchor="middle" alignment-baseline="middle" x="62%" y="51%" class="desc" style="fill:#f7f5f5;">Decorate GitHub Profile or any Repo like me!</text> 
+            </svg>
 - 👋 Hi Everyone~~~, My name is @HoCG! Good to see you guys haha~ 
 - 👀 I’m interested in Java, Python, Vue, kotlin etc... Actually, I like any programming language! Even though I'm just starting out now, I always do my best~!
 - 🌱 I’m currently learning vue and react. While working as an intern at Isu System, I got a job to create a website. Because of this, I am currently studying vue, react etc... and will have a website ready soon! 
