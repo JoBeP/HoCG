@@ -8,7 +8,7 @@
 
 - ❗ 커밋하는 주기가 빠르지않아요😥 커밋을 자주 안할뿐 평상시에 코딩을 정말 많이한답니다ㅎㅎ
 
-https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 
 <!---
 HoCG/HoCG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
