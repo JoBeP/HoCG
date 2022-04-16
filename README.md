@@ -1,4 +1,4 @@
-<img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&color=fa9855&height=300&section=header&text=Welcome%20To%20HoCG's%20Github&fontSize=60"/>
+<img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&color=ffdbb8&height=300&section=header&text=Welcome%20To%20HoCG's%20Github&fontSize=60"/>
 
 - 👋 Hi Everyone~~~, My name is HoCG! Good to see you guys haha~ 
 
