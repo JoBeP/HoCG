@@ -14,7 +14,7 @@
 
 - ❗ 커밋하는 주기가 빠르지않아요😥 커밋을 자주 안할뿐 평상시에 코딩을 정말 많이한답니다ㅎㅎ
 
-<img src="https://img.shields.io/badge/vue.js-008d62?style=flat-square&logo=vue.js&logoColor=#4FC08D"/> <img src="https://img.shields.io/badge/Javascript-f7e600?style=flat-square&logo=Javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ff7f00?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-ff7f00?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-0075da?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-ff1493?style=flat-square&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/React-ff1493?style=flat-square&logo=React&logoColor=skyblue"/>
+<img src="https://img.shields.io/badge/vue.js-008d62?style=flat-square&logo=vue.js&logoColor=#4FC08D"/> <img src="https://img.shields.io/badge/Javascript-f7e600?style=flat-square&logo=Javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ff7f00?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-ff7f00?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-0075da?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-ff1493?style=flat-square&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/React-ffffff?style=flat-square&logo=React&logoColor=skyblue"/>
                       
 
 <!---
