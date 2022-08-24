@@ -2,7 +2,7 @@
 
 - 👋 Hi Everyone~~~, My name is HoCG! Good to see you guys haha~ 
 
-- 👀 I’m interested in Java, Python, Vue, kotlin etc... Actually, I like any programming language! Even though I'm just starting out now, I always do my best~!
+- 👀 I’m interested in React, Vue, Javascipt etc... Actually, I like any programming language! Even though I'm just starting out now, I always do my best~!
 
 - 🌱 I’m currently learning vue and react. While working as an intern at Isu System, I got a job to create a website. Because of this, I am currently studying vue, react etc... and will have a website ready soon! 
 
