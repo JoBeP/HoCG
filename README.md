@@ -12,7 +12,7 @@
 
 - 👋 안녕하세요! 언제나 최선을 다하는 개발자, 성장하는 개발자 황호세라고 합니다! 제 깃허브 주소에 오신 여러분들께 진심으로 환영한다는 말씀 전해드립니다ㅎ_ㅎ 메인 언어는 Vue, React, Javascript이고 관심있는 분야는 recoil, three.js입니다! 여기서 여러분들이 필요한 소스를 가져가서 잘 쓰셨으면 좋겠네요!
 
-- ❗ 커밋하는 주기가 빠르지않아요😥 커밋을 자주 안할뿐 평상시에 코딩을 정말 많이한답니다ㅎㅎ I Love Coding~!
+- ❗ 2022년 10월 12일부로 1일 1커밋을 목표로 하고있습니다. 많은 응원 부탁드립니다!
 
 <img src="https://img.shields.io/badge/vue.js-008d62?style=flat-square&logo=vue.js&logoColor=#4FC08D"/> <img src="https://img.shields.io/badge/Javascript-f7e600?style=flat-square&logo=Javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ff7f00?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-ff7f00?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-0075da?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-ff1493?style=flat-square&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/React-ffffff?style=flat-square&logo=React&logoColor=skyblue"/> <img src="https://img.shields.io/badge/styled_components-ffffff?style=flat-square&logo=styled-components&logoColor=skyblue"/>
                       
