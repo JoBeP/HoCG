@@ -14,6 +14,8 @@
 
 - ❗ 2022년 10월 12일부로 1일 1커밋을 목표로 하고있습니다. 많은 응원 부탁드립니다!
 
+#
+
 <img src="https://img.shields.io/badge/vue.js-008d62?style=flat-square&logo=vue.js&logoColor=#4FC08D"/> <img src="https://img.shields.io/badge/Javascript-f7e600?style=flat-square&logo=Javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ff7f00?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-ff7f00?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-0075da?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-ff1493?style=flat-square&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/React-ffffff?style=flat-square&logo=React&logoColor=skyblue"/> <img src="https://img.shields.io/badge/styled_components-ffffff?style=flat-square&logo=styled-components&logoColor=skyblue"/>
                       
 
