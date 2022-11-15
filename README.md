@@ -1,6 +1,6 @@
 <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&color=d3f9dc&height=300&section=header&text=Welcome%20To%20HoCG's%20Github👋&fontSize=60&fontColor=ffffff"/>
 
-- 👋 Hi Everyone~~~, My name is HoCG! Good to see you guys haha~ 
+- 👋 Hi Everyone, My name is HoCG! Good to see you guys haha
 
 - 👀 I’m interested in React, Vue, Javascipt etc... Actually, I like any programming language! Even though I'm just starting out now, I always do my best~!
 
