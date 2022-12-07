@@ -11,7 +11,7 @@
 
 - 올해의 목표: 노드 공부 마무리
 
-- 내년의 목표: next.js, recoil, styled component, jsdoc, webGL 공부하기
+- 내년의 목표: next.js, recoil, Typescript, react-query, jsdoc, webGL 공부하기
 
 #소통해요
 
