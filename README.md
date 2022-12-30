@@ -1,7 +1,7 @@
 <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&color=d3f9dc&height=300&section=header&text=Welcome%20To%20HoCG's%20Github👋&fontSize=60&fontColor=ffffff"/>
 
 
-- 👋 안녕하세요! 언제나 최선을 다하는 개발자, 성장하는 개발자 호CG, 황호세라고 합니다! 제 깃허브 주소에 오신 여러분들 너무 환영합니다ㅎ_ㅎ 메인 언어는 Vue, React, Javascript이고 관심있는 분야는 next.js, three.js입니다! 제 저장소에서 여러분들이 필요한 소스를 가져가서 잘 쓰셨으면 좋겠네요!
+- 👋 안녕하세요! 언제나 최선을 다하는 개발자, 성장하는 개발자 호CG, 황호세라고 합니다! 제 깃허브 주소에 오신 여러분들 너무 환영합니다ㅎ_ㅎ
 
 - ❗ 2022년 10월 12일부로 1일 1커밋을 목표로 하고있습니다. 많은 응원 부탁드립니다!
 
