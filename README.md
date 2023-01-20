@@ -11,7 +11,7 @@
 
 -  공부 중: recoil, react-query
 
--  목표: next.js, jsdoc, webGL, stotybook, jest 공부하기
+-  목표: next.js, jsdoc, webGL, storybook, jest 공부하기
 
 #소통해요
 
