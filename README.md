@@ -9,9 +9,9 @@
 
 - 😎 앞으로 꼭 하고싶은 프로젝트들: 라디오헤드 소개 사이트 리뉴얼 버전(리액트로 만들기), 내 프로필 html과 css로 그려보기, 마우스 올렸을때 자연스럽게 카드넘기듯이 넘어가는 css
 
--  공부 중: recoil, react-query, hook-dive, next.js
+-  공부 중: recoil, react-query, hook-dive
 
--  목표: jsdoc, webGL, storybook, jest, 스벨트, graphQL 공부하기
+-  목표: docker, jsdoc, webGL, next.js, storybook, jest, 스벨트, graphQL 공부하기
 
 #소통해요
 
