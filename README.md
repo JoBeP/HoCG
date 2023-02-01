@@ -11,7 +11,7 @@
 
 -  공부 중: recoil, react-query, hook-dive
 
--  목표: docker, jsdoc, webGL, next.js, storybook, jest, 스벨트, graphQL 공부하기
+-  목표: docker, jest, 디자인패턴 by Javascript, 자료구조 by Javascript jsdoc, webGL, next.js, storybook, 스벨트, graphQL 공부하기
 
 #소통해요
 
