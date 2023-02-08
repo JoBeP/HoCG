@@ -11,7 +11,7 @@
 
 - 📖 공부 중: 전체복습, docker, jsdoc
 
-- 🚩 목표: 자료구조 by Javascript, 디자인패턴 by Javascript, webGL, next.js, nest.js, storybook, 스벨트, graphQL 공부하기
+- 🚩 목표: 자료구조 by Javascript, 디자인패턴 by Javascript, socket.io, webGL, next.js, nest.js, storybook, 스벨트, graphQL 공부하기
 
 #소통해요
 
