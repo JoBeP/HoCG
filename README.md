@@ -5,13 +5,13 @@
 
 - ❗ 2023년 1월 25일부로 1주 5커밋 중입니다. 많은 응원 부탁드려요
 
-- ✔ 현재 진행중인 프로젝트: null
+- ✔ 현재 진행중인 프로젝트: 보리쌀
 
 - 😎 앞으로 꼭 하고싶은 프로젝트들: 라디오헤드 소개 사이트 리뉴얼 버전(리액트로 만들기), 내 프로필 html과 css로 그려보기, 마우스 올렸을때 자연스럽게 카드넘기듯이 넘어가는 css
 
-- 📖 공부 중: next.js
+- 📖 공부 중: null
 
-- 🚩 목표: 자료구조 by Javascript, 디자인패턴 by Javascript, webGL, nest.js, storybook, 스벨트, graphQL 공부하기
+- 🚩 목표: 자료구조 by Javascript, 디자인패턴 by Javascript, webGL, nest.js, 스벨트, graphQL 공부하기
 
 #소통해요
 
