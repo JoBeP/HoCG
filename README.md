@@ -1,7 +1,9 @@
 <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&color=d3f9dc&height=300&section=header&text=Welcome%20To%20HoCG's%20Github👋&fontSize=60&fontColor=ffffff"/>
 
+![KakaoTalk_20230410_173623419](https://user-images.githubusercontent.com/52379503/230865728-368688e9-7ecd-4bc9-9f49-8ac5f68c9dfd.jpg)
 
-- 👋 안녕하세요! 언제나 최선을 다하는 개발자, 성장하는 개발자 JoStar33, 황호세라고 합니다! 제 깃허브 주소에 오신 여러분들 너무 환영합니다ㅎ_ㅎ
+
+- 👋 안녕하세요! 언제나 최선을 다하는 개발자, 성장형 주인공 같은 개발자 JoStar33, 황호세라고 합니다! 제 깃허브 주소에 오신 여러분들 너무 환영합니다ㅎ_ㅎ
 
 - ❗ 2023년 1월 25일부로 1주 5커밋 중입니다. 많은 응원 부탁드려요
 
