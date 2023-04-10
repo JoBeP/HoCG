@@ -1,7 +1,6 @@
 <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&color=d3f9dc&height=300&section=header&text=Welcome%20To%20HoCG's%20Github👋&fontSize=60&fontColor=ffffff"/>
 
-![KakaoTalk_20230410_173623419](https://user-images.githubusercontent.com/52379503/230865728-368688e9-7ecd-4bc9-9f49-8ac5f68c9dfd.jpg)
-
+<img src="https://user-images.githubusercontent.com/52379503/230865728-368688e9-7ecd-4bc9-9f49-8ac5f68c9dfd.jpg" width="300" height="456" align="right">
 
 - 👋 안녕하세요! 언제나 최선을 다하는 개발자, 성장형 주인공 같은 개발자 JoStar33, 황호세라고 합니다! 제 깃허브 주소에 오신 여러분들 너무 환영합니다ㅎ_ㅎ
 
@@ -18,4 +17,3 @@
 #소통해요
 
 <img src="https://img.shields.io/badge/React-ffffff?style=flat-square&logo=React&logoColor=skyblue"/> <img src="https://img.shields.io/badge/vue.js-008d62?style=flat-square&logo=vue.js&logoColor=#4FC08D"/> <img src="https://img.shields.io/badge/Javascript-f7e600?style=flat-square&logo=Javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Typescript-0000ff?style=flat-square&logo=Typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ff7f00?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-ff7f00?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-0075da?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-ff1493?style=flat-square&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/styled_components-ffffff?style=flat-square&logo=styled-components&logoColor=skyblue"/> <img src="https://img.shields.io/badge/Node.js-ffffff?style=flat-square&logo=Nodejs&logoColor=skyblue"/>
-                      
