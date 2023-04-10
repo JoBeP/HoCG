@@ -1,4 +1,4 @@
-<img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&color=d3f9dc&height=300&section=header&text=Welcome%20To%20HoCG's%20Github👋&fontSize=60&fontColor=ffffff"/>
+<img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&color=d3f9dc&height=300&section=header&text=Welcome%20To%20Jostar33's%20Github👋&fontSize=60&fontColor=ffffff"/>
 
 <img src="https://user-images.githubusercontent.com/52379503/230865728-368688e9-7ecd-4bc9-9f49-8ac5f68c9dfd.jpg" width="300" height="456" align="right">
 
