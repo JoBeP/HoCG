@@ -1,8 +1,11 @@
 <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&color=d3f9dc&height=300&section=header&text=Welcome%20To%20Jose's%20Github👋&fontSize=60&fontColor=ffffff"/>
 
 # ✨Introduce
-
-<img src="https://user-images.githubusercontent.com/52379503/230865728-368688e9-7ecd-4bc9-9f49-8ac5f68c9dfd.jpg" width="250" height="376" align="right">
+<picture>
+  <source media="(min-width:750px)" srcset="https://user-images.githubusercontent.com/52379503/230865728-368688e9-7ecd-4bc9-9f49-8ac5f68c9dfd.jpg" width="250" height="375"  align="right">
+  <source media="(min-width:150px)" srcset="https://user-images.githubusercontent.com/52379503/230865728-368688e9-7ecd-4bc9-9f49-8ac5f68c9dfd.jpg" width="100" height="150" align="right">
+  <img src="[img_orange_flowers.jpg](https://user-images.githubusercontent.com/52379503/230865728-368688e9-7ecd-4bc9-9f49-8ac5f68c9dfd.jpg)" alt="Jostar33" style="width:auto;" width="250" height="376" align="right">
+</picture>
 
 - 안녕하세요! 성장형 주인공 같은 프론트엔드 개발자 JoStar33입니다!
 ```javascript
