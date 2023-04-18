@@ -1,5 +1,3 @@
-<img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&color=d3f9dc&height=300&section=header&text=Welcome%20To%20Jose's%20Github👋&fontSize=60&fontColor=ffffff"/>
-
 # ✨Introduce
 <picture>
   <source media="(min-width:750px)" srcset="https://user-images.githubusercontent.com/52379503/230865728-368688e9-7ecd-4bc9-9f49-8ac5f68c9dfd.jpg" width="250" height="375"  align="right">
@@ -7,7 +5,7 @@
   <img src="[img_orange_flowers.jpg](https://user-images.githubusercontent.com/52379503/230865728-368688e9-7ecd-4bc9-9f49-8ac5f68c9dfd.jpg)" alt="Jostar33" style="width:auto;" width="250" height="376" align="right">
 </picture>
 
-- 안녕하세요! 성장형 주인공 같은 프론트엔드 개발자 JoStar33입니다!
+### 안녕하세요! 성장형 주인공 같은 프론트엔드 개발자 **JoStar33**입니다!
 ```javascript
 //나를 세줄로 요약하자면?
 const jostar33 = {
@@ -18,13 +16,11 @@ const jostar33 = {
 ```
 - 2023년 1월 25일부로 1주 5커밋 중입니다. 많은 응원 부탁드려요~
 
-- 현재 진행중인 프로젝트: -
+- **앞으로 꼭 하고싶은 프로젝트들:** 라디오헤드 소개 사이트 리뉴얼 버전(리액트로 만들기), 마우스 올렸을때 자연스럽게 카드넘기듯이 넘어가는 css
 
-- 앞으로 꼭 하고싶은 프로젝트들: 라디오헤드 소개 사이트 리뉴얼 버전(리액트로 만들기), 마우스 올렸을때 자연스럽게 카드넘기듯이 넘어가는 css
+- **공부 중:** 웹팩, 자바스크립트, 리액트기본기 복습
 
-- 공부 중: 웹팩, 자바스크립트, 리액트
-
-- 목표: 자료구조 by Javascript, 디자인패턴 by Javascript, 보리쌀 ver2, webGL, graphQL 공부하기
+- **목표:** 자료구조 by Javascript, 디자인패턴 by Javascript, 보리쌀 ver2, webGL, graphQL 공부하기
 
 </br>
 </br>
@@ -32,8 +28,6 @@ const jostar33 = {
 #소통해요
 
 </br>
-</br>
-
 
 # 🔨Tech Stack
 
