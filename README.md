@@ -8,8 +8,6 @@ const jostar33 = {
   communicatingDeveloper: "다른 사람과 개발 이야기하는걸 너무나 좋아합니다."
 }
 ```
-</br>
-</br>
 
 #소통해요
 
