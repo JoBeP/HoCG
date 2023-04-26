@@ -3,8 +3,8 @@
 ```javascript
 //나를 세줄로 표현하자면?
 const jostar33 = {
-  strugglingDeveloper: "늘 좋은 코드와 설계를 고민합니다." ,
-  caringDeveloper: "사용자의 편의성을 최우선으로 생각하는 개발자입니다.",
+  strugglingDeveloper: "최적화된 코드와 설계를 고민합니다." ,
+  solvingDeveloper: "끈기있게 문제를 해결하려하는 개발자입니다.",
   communicatingDeveloper: "다른 사람과 개발 이야기하는걸 너무나 좋아합니다."
 }
 ```
