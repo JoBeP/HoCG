@@ -10,6 +10,19 @@ const jostar33 = {
 }
 ```
 
+```javascript
+const 공부중 = () => {
+  return `
+    - 리덕스 공부
+    - useReducer 공부
+    - 디자인 패턴 공부
+    - 투두 연습
+  `
+};
+공부중();
+```
+
+
 #소통해요
 
 </br>
