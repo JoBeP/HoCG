@@ -40,7 +40,7 @@ const 공부중 = () => {
 </br>
 
 
-# 👂Contact
+# 📞Contact
 
 📭  rhwkd5012@naver.com 
 
