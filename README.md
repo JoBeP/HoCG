@@ -13,10 +13,10 @@ const jostar33 = {
 ```javascript
 const 공부중 = () => {
   return `
-    - 리덕스 공부
-    - useReducer 공부
+    - 리덕스 복습
+    - useReducer 복습
     - 디자인 패턴 공부
-    - 투두 연습
+    - 투두습연습
   `
 };
 공부중();
