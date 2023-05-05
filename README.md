@@ -1,7 +1,7 @@
 # ✨Introduce
 ### 안녕하세요! 성장형 주인공 같은 프론트엔드 개발자 **JoStar33**입니다!
 ```javascript
-//나를네네줄로 표현하자면?
+//나를 네줄로 표현하자면?
 const jostar33 = {
   strugglingDeveloper: "최적화된 코드와 설계를 고민합니다." ,
   communicatingDeveloper: "다양한 직무의 구성원들과 대화하고자 합니다." ,
