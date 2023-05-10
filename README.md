@@ -47,7 +47,10 @@ console.log(공부중());
 </br>
 </br>
 </br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jostar33&layout=Demo&theme=dark)
 
+</br>
+</br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jostar33)](https://github.com/anuraghazra/github-readme-stats)
  
