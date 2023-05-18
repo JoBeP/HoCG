@@ -15,7 +15,7 @@ const 공부중 = () => {
   return `
     - useReducer 복습
     - 디자인 패턴 공부
-    - 투두 연습
+    - 리액트 네이티브 공부
   `
 };
 console.log(공부중());
