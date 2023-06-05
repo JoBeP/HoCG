@@ -13,7 +13,6 @@ const jostar33 = {
 ```javascript
 const 공부중 = () => {
   return `
-    - useReducer 복습
     - 디자인 패턴 공부
     - 리액트 네이티브 공부
   `
