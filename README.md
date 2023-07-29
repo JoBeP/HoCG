@@ -13,8 +13,7 @@ const jostar33 = {
 ```javascript
 const 공부중 = () => {
   return `
-    - 디자인 패턴 공부
-    - 리액트 네이티브 공부
+    - 오픈오프 프로젝트
   `
 };
 console.log(공부중());
