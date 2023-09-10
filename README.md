@@ -13,7 +13,7 @@ const jostar33 = {
 ```javascript
 const 공부중 = () => {
   return `
-    - 오픈오프 프로젝트
+    - 기본기 복습
   `
 };
 console.log(공부중());
