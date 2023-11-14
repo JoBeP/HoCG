@@ -11,11 +11,9 @@ const jostar33 = {
 ```
 
 ```javascript
-const 공부중 = () => {
-  return `
-    - 기본기 복습
-  `
-};
+const 공부중 = () => `
+    - TypeScript
+  `;
 console.log(공부중());
 ```
 
