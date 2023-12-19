@@ -10,13 +10,6 @@ const jostar33 = {
 }
 ```
 
-```javascript
-const 공부중 = () => `
-    - TypeScript
-  `;
-console.log(공부중());
-```
-
 
 #소통해요
 
