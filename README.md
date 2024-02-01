@@ -5,8 +5,8 @@
 const jostar33 = {
   strugglingDeveloper: "최적화된 코드와 설계를 고민합니다." ,
   communicatingDeveloper: "다양한 직무의 구성원들과 대화하고자 합니다." ,
-  studingDeveloper: "꾸준히 노력하며 기술을 탐구하는 개발자입니다",
-  thinkingDeveloper: "코드가 왜 동작하는지를 생각해보는 개발자입니다.",
+  studingDeveloper: "꾸준히 노력하며 기술을 탐구하는 개발자입니다.",
+  thinkingDeveloper: "비즈니스적으로 사고하는 개발자입니다.",
 }
 ```
 
